@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "strict": true,       // Enable strict type checking
+    "jsx": "react-native" // Support React Native JSX syntax
+  },
+  "extends": "expo/tsconfig.base"
+}
